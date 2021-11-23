@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string-array name="tools">
+        <item>Дрели</item>
+        <item>Перфораторы</item>
+        <item>Болгарки</item>
+    </string-array>
+
+    <string name="drill_interskol_title">Дрель Интерскол</string>
+    <string name="drill_makita_title">Дрель Makita</string>
+    <string name="drill_dewalt_title">Дрель DeWalt</string>
+
+    <string name="drill_interskol_info">Дрель Интерскол супер </string>
+    <string name="drill_makita_info">Дрель Makita хорошая </string>
+    <string name="drill_dewalt_info">Дрель DeWalt отменная</string>
+</resources>
